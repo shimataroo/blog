@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>自己紹介 on shimataro.teck</title>
-    <link>http://example.org/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</link>
+    <link>https://shimataroo.github.io/blog/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</link>
     <description>Recent content in 自己紹介 on shimataro.teck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://shimataroo.github.io/blog/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Hugoでブログを作った</title>
-        <link>http://example.org/posts/hello/</link>
+        <link>https://shimataroo.github.io/blog/posts/hello/</link>
         <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 23 Jan 2022 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/posts/hello/</guid>
+        <guid>https://shimataroo.github.io/blog/posts/hello/</guid>
         <description>はじめに webエンジニアで主にサーバサイドを触っているshimataroと言います。 バリバリコードを書くエンジニアになってから色々な知識がイ</description>
         
         <dc:creator>shimataro</dc:creator>

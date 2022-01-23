@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on shimataro.teck</title>
-    <link>http://example.org/series/</link>
+    <link>https://shimataroo.github.io/blog/series/</link>
     <description>Recent content in Series on shimataro.teck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://shimataroo.github.io/blog/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
