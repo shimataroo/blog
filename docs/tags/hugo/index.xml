@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Hugo on shimataro.teck</title>
+    <link>http://example.org/tags/hugo/</link>
+    <description>Recent content in Hugo on shimataro.teck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Hugoでブログを作った</title>
+        <link>http://example.org/posts/hello/</link>
+        <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 23 Jan 2022 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/hello/</guid>
+        <description>はじめに webエンジニアで主にサーバサイドを触っているshimataroと言います。 バリバリコードを書くエンジニアになってから色々な知識がイ</description>
+        
+        <dc:creator>shimataro</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+            
+              <category>自己紹介</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
